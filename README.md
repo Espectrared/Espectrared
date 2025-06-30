@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=17F7CA&center=true&width=435&lines=Isaac+Aramburo+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=17F7CA&center=true&width=435&lines=Isaac+Aramburo+;%F0%9F%92%BE+Hard+skill;%5B!%5BMy+Skills%5D(https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Djs%2Chtml%2Ccss%2Cwasm)%5D(https%3A%2F%2Fskillicons.dev))](https://git.io/typing-svg)
