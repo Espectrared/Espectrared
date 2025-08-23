@@ -29,6 +29,25 @@
   <img src="https://streak-stats.demolab.com/?user=Espectrared&theme=tokyonight" alt="Racha de GitHub"/>
 </p>
 
+
+### 📈 Actividad Reciente
+
+[![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=Espectrared&theme=tokyo-night)](https://github.com/Espectrared)
+
+### 🌐 Lenguajes más usados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espectrared&layout=compact&theme=tokyonight)](https://github.com/Espectrared)
+
+---
+
+### 💬 Acerca de mí
+
+- 🎓 Soy un desarrollador con experiencia en múltiples lenguajes y tecnologías.
+- 🌱 Actualmente estoy aprendiendo nuevas herramientas de visualización y análisis de datos.
+- 📩 Puedes contactarme por correo o conectar conmigo en LinkedIn.
+
+---
+
 ---
 
 ### 💬 Acerca de mí
