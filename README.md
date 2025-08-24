@@ -1,10 +1,8 @@
-<!-- Presentación -->
-<h1 align="center">Hola, soy Isaac Aramburo 👋</h1>
-<h3 align="center">Desarrollador de software apasionado por crear soluciones de calidad</h3>
+<h1 align="center">Hola, soy Isaac Aramburo </h1>
 
 ---
 
-### 💚 Tecnologías y herramientas
+###  Tecnologías y herramientas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -44,8 +42,6 @@
 
 - 🎓 Soy un desarrollador con experiencia en múltiples lenguajes y tecnologías.
 - 🌱 Actualmente estoy aprendiendo nuevas herramientas de visualización y análisis de datos.
-- 📩 Puedes contactarme por correo o conectar conmigo en LinkedIn.
 
 ---
 
-<!-- Sugerencia: Agrega secciones como Proyectos Destacados o Certificaciones aquí -->
