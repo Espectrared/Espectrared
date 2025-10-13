@@ -38,10 +38,5 @@
 
 ---
 
-### 💬 Acerca de mí
 
-- 🎓 Soy un desarrollador con experiencia en múltiples lenguajes y tecnologías.
-- 🌱 Actualmente estoy aprendiendo nuevas herramientas de visualización y análisis de datos.
-
----
 
